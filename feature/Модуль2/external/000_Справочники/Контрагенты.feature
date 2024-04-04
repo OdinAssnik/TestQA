@@ -2,7 +2,7 @@
 
 @tree
 @ExportScenarios
-@IgnorOnCIMainBuild
+@IgnoreOnCIMainBuild
 
 Функционал: загрузка справочника Контрагенты
 

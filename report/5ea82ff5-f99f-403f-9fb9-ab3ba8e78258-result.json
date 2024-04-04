@@ -1,11 +1,11 @@
 {
-	"uuid": "2c72b633-9c11-4e49-a48d-23b15046830e",
-	"historyId": "загрузка Заказа.Подготовка данных",
-	"name": "Подготовка данных",
-	"fullName": "feature/модуль2/iternal/загрузка заказа.feature_подготовка данных",
-	"testCaseId": "96ab1351deb33d4adb193278cb7f5218",
-	"start": 1711644998017,
-	"stop": 1711644999526,
+	"uuid": "5ea82ff5-f99f-403f-9fb9-ab3ba8e78258",
+	"historyId": "создание Заказа._0001_ПодготовкаДанных",
+	"name": "_0001_ПодготовкаДанных",
+	"fullName": "feature/модуль2/iternal/загрузка заказа.feature__0001_подготовкаданных",
+	"testCaseId": "078079ca85227bf09745ba5a2b355354",
+	"start": 1712220294349,
+	"stop": 1712220295299,
 	"statusDetails": {
 		"known": false,
 		"muted": false,
@@ -15,9 +15,9 @@
 	"stage": "finished",
 	"steps": [
 		{
-			"name": "*Подготовка НСИ",
-			"start": 1711644999203,
-			"stop": 1711644999467,
+			"name": "* Подготовка НСИ",
+			"start": 1712220295111,
+			"stop": 1712220295299,
 			"status": "passed",
 			"stage": "finished",
 			"statusDetails": {
@@ -30,8 +30,8 @@
 			"steps": [
 				{
 					"name": "И загрузка справочника ВидыЦен",
-					"start": 1711644999203,
-					"stop": 1711644999230,
+					"start": 1712220295111,
+					"stop": 1712220295131,
 					"status": "passed",
 					"stage": "finished",
 					"statusDetails": {
@@ -44,8 +44,8 @@
 					"steps": [
 						{
 							"name": "И я проверяю или создаю для справочника \"ВидыЦен\" объекты:",
-							"start": 1711644999203,
-							"stop": 1711644999230,
+							"start": 1712220295111,
+							"stop": 1712220295131,
 							"status": "passed",
 							"stage": "finished",
 							"statusDetails": {
@@ -62,7 +62,7 @@
 							"attachments": [
 								{
 									"name": "table",
-									"source": "9c99fe36-8c13-4abb-82a0-62d4351b2431-attachment.csv",
+									"source": "988b4058-b28a-49c5-b195-d1e8a494b4f0-attachment.csv",
 									"type": "text/csv"
 								}
 							],
@@ -72,8 +72,8 @@
 				},
 				{
 					"name": "И загрузка справочника Регионы",
-					"start": 1711644999232,
-					"stop": 1711644999263,
+					"start": 1712220295131,
+					"stop": 1712220295154,
 					"status": "passed",
 					"stage": "finished",
 					"statusDetails": {
@@ -86,8 +86,8 @@
 					"steps": [
 						{
 							"name": "И я проверяю или создаю для справочника \"Регионы\" объекты:",
-							"start": 1711644999232,
-							"stop": 1711644999263,
+							"start": 1712220295131,
+							"stop": 1712220295154,
 							"status": "passed",
 							"stage": "finished",
 							"statusDetails": {
@@ -104,7 +104,7 @@
 							"attachments": [
 								{
 									"name": "table",
-									"source": "5c142448-3449-4dc4-a204-eb861710a3f4-attachment.csv",
+									"source": "367cb5c2-ccec-4dcf-9ba4-eaa6df5aca02-attachment.csv",
 									"type": "text/csv"
 								}
 							],
@@ -114,8 +114,8 @@
 				},
 				{
 					"name": "И загрузка справочника Контрагенты",
-					"start": 1711644999265,
-					"stop": 1711644999313,
+					"start": 1712220295154,
+					"stop": 1712220295190,
 					"status": "passed",
 					"stage": "finished",
 					"statusDetails": {
@@ -128,8 +128,8 @@
 					"steps": [
 						{
 							"name": "И я проверяю или создаю для справочника \"Контрагенты\" объекты:",
-							"start": 1711644999265,
-							"stop": 1711644999313,
+							"start": 1712220295154,
+							"stop": 1712220295190,
 							"status": "passed",
 							"stage": "finished",
 							"statusDetails": {
@@ -146,7 +146,7 @@
 							"attachments": [
 								{
 									"name": "table",
-									"source": "a238db92-59d0-4271-a1aa-590c3df8fe5f-attachment.csv",
+									"source": "b98c1e7a-b98f-4e0c-b326-7663471d4248-attachment.csv",
 									"type": "text/csv"
 								}
 							],
@@ -156,8 +156,8 @@
 				},
 				{
 					"name": "И загрузка справочника Организации",
-					"start": 1711644999317,
-					"stop": 1711644999339,
+					"start": 1712220295190,
+					"stop": 1712220295210,
 					"status": "passed",
 					"stage": "finished",
 					"statusDetails": {
@@ -170,8 +170,8 @@
 					"steps": [
 						{
 							"name": "И я проверяю или создаю для справочника \"ВидыЦен\" объекты:",
-							"start": 1711644999317,
-							"stop": 1711644999339,
+							"start": 1712220295190,
+							"stop": 1712220295210,
 							"status": "passed",
 							"stage": "finished",
 							"statusDetails": {
@@ -188,7 +188,7 @@
 							"attachments": [
 								{
 									"name": "table",
-									"source": "87717caa-18b1-4018-9e09-41076dac8f24-attachment.csv",
+									"source": "3eac5cc4-7d6b-4e82-b4a6-d1f400c9b5b8-attachment.csv",
 									"type": "text/csv"
 								}
 							],
@@ -198,8 +198,8 @@
 				},
 				{
 					"name": "И загрузка справочника Пользователи",
-					"start": 1711644999343,
-					"stop": 1711644999369,
+					"start": 1712220295210,
+					"stop": 1712220295230,
 					"status": "passed",
 					"stage": "finished",
 					"statusDetails": {
@@ -212,8 +212,8 @@
 					"steps": [
 						{
 							"name": "И я проверяю или создаю для справочника \"Пользователи\" объекты:",
-							"start": 1711644999343,
-							"stop": 1711644999369,
+							"start": 1712220295210,
+							"stop": 1712220295230,
 							"status": "passed",
 							"stage": "finished",
 							"statusDetails": {
@@ -230,7 +230,7 @@
 							"attachments": [
 								{
 									"name": "table",
-									"source": "0f743e66-ede9-407a-aa25-fdc8622d17c8-attachment.csv",
+									"source": "2e93d1d3-937d-48c9-beea-a9d049aeab2b-attachment.csv",
 									"type": "text/csv"
 								}
 							],
@@ -240,8 +240,8 @@
 				},
 				{
 					"name": "И загрузка справочника Склады",
-					"start": 1711644999381,
-					"stop": 1711644999405,
+					"start": 1712220295230,
+					"stop": 1712220295250,
 					"status": "passed",
 					"stage": "finished",
 					"statusDetails": {
@@ -254,8 +254,8 @@
 					"steps": [
 						{
 							"name": "И я проверяю или создаю для справочника \"Склады\" объекты:",
-							"start": 1711644999381,
-							"stop": 1711644999405,
+							"start": 1712220295230,
+							"stop": 1712220295250,
 							"status": "passed",
 							"stage": "finished",
 							"statusDetails": {
@@ -272,7 +272,7 @@
 							"attachments": [
 								{
 									"name": "table",
-									"source": "1f1ec8d8-cebe-419c-80ae-bfbb1dd56c94-attachment.csv",
+									"source": "c3197db0-e8f3-4df8-8dc4-e3e678b31165-attachment.csv",
 									"type": "text/csv"
 								}
 							],
@@ -282,8 +282,8 @@
 				},
 				{
 					"name": "И загрузка справочника ХранимыеФайлы",
-					"start": 1711644999413,
-					"stop": 1711644999435,
+					"start": 1712220295250,
+					"stop": 1712220295272,
 					"status": "passed",
 					"stage": "finished",
 					"statusDetails": {
@@ -296,8 +296,8 @@
 					"steps": [
 						{
 							"name": "И я проверяю или создаю для справочника \"ХранимыеФайлы\" объекты:",
-							"start": 1711644999413,
-							"stop": 1711644999435,
+							"start": 1712220295250,
+							"stop": 1712220295272,
 							"status": "passed",
 							"stage": "finished",
 							"statusDetails": {
@@ -314,7 +314,7 @@
 							"attachments": [
 								{
 									"name": "table",
-									"source": "14937c18-2b42-4f0b-a701-a83eb8dc701f-attachment.csv",
+									"source": "e8f13fdf-a284-41dc-aaeb-ed2f999ae6fb-attachment.csv",
 									"type": "text/csv"
 								}
 							],
@@ -324,8 +324,8 @@
 				},
 				{
 					"name": "И загрузка справочника Товары",
-					"start": 1711644999438,
-					"stop": 1711644999467,
+					"start": 1712220295272,
+					"stop": 1712220295299,
 					"status": "passed",
 					"stage": "finished",
 					"statusDetails": {
@@ -338,8 +338,8 @@
 					"steps": [
 						{
 							"name": "И я проверяю или создаю для справочника \"Товары\" объекты:",
-							"start": 1711644999438,
-							"stop": 1711644999467,
+							"start": 1712220295272,
+							"stop": 1712220295299,
 							"status": "passed",
 							"stage": "finished",
 							"statusDetails": {
@@ -356,7 +356,7 @@
 							"attachments": [
 								{
 									"name": "table",
-									"source": "b45b8147-78b6-4849-b703-c48259c32a70-attachment.csv",
+									"source": "4afcf2a6-a0e5-4f73-a902-d0bc302604f9-attachment.csv",
 									"type": "text/csv"
 								}
 							],
@@ -365,85 +365,17 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "*Загрузка документа",
-			"start": 1711644999470,
-			"stop": 1711644999524,
-			"status": "passed",
-			"stage": "finished",
-			"statusDetails": {
-				"known": false,
-				"muted": false,
-				"flaky": false
-			},
-			"parameters": [],
-			"attachments": [],
-			"steps": [
-				{
-					"name": "И я проверяю или создаю для документа \"Заказ\" объекты:",
-					"start": 1711644999470,
-					"stop": 1711644999502,
-					"status": "passed",
-					"stage": "finished",
-					"statusDetails": {
-						"known": false,
-						"muted": false,
-						"flaky": false
-					},
-					"parameters": [
-						{
-							"name": "Парам1",
-							"value": "Заказ"
-						}
-					],
-					"attachments": [
-						{
-							"name": "table",
-							"source": "99f4e76b-4b4e-4050-9187-35864dc905bf-attachment.csv",
-							"type": "text/csv"
-						}
-					],
-					"steps": []
-				},
-				{
-					"name": "И я перезаполняю для объекта табличную часть \"Товары\":",
-					"start": 1711644999504,
-					"stop": 1711644999524,
-					"status": "passed",
-					"stage": "finished",
-					"statusDetails": {
-						"known": false,
-						"muted": false,
-						"flaky": false
-					},
-					"parameters": [
-						{
-							"name": "Парам1",
-							"value": "Товары"
-						}
-					],
-					"attachments": [
-						{
-							"name": "table",
-							"source": "357666d4-8911-47df-9edc-0c5330023957-attachment.csv",
-							"type": "text/csv"
-						}
-					],
-					"steps": []
-				}
-			]
 		}
 	],
 	"parameters": [],
 	"labels": [
 		{
 			"name": "story",
-			"value": "Подготовка данных"
+			"value": "_0001_ПодготовкаДанных"
 		},
 		{
 			"name": "feature",
-			"value": "загрузка Заказа"
+			"value": "создание Заказа"
 		},
 		{
 			"name": "epic",
@@ -451,7 +383,7 @@
 		},
 		{
 			"name": "suite",
-			"value": "загрузка Заказа"
+			"value": "создание Заказа"
 		},
 		{
 			"name": "tag",
