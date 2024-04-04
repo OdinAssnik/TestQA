@@ -1,15 +1,15 @@
 {
-	"uuid": "27426f28-6566-4db2-8efa-400a2dfee62a",
-	"name": "Контекст__0001_ПодготовкаДанных",
+	"uuid": "74d3b726-344b-4e82-80e7-4a6cefeece8e",
+	"name": "Контекст_подготовка НСИ",
 	"description": "",
 	"children": [
-		"5ea82ff5-f99f-403f-9fb9-ab3ba8e78258"
+		"b7586829-b88a-48ac-83ec-e38fdc9faa44"
 	],
 	"befores": [
 		{
 			"name": "Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий",
-			"start": 1712220294427,
-			"stop": 1712220294999,
+			"start": 1712221119846,
+			"stop": 1712221121515,
 			"status": "passed",
 			"stage": "finished",
 			"statusDetails": {

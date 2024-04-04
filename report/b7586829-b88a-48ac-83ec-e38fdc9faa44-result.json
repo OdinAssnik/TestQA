@@ -1,0 +1,388 @@
+{
+	"uuid": "b7586829-b88a-48ac-83ec-e38fdc9faa44",
+	"historyId": "подготовка НСИ.подготовка НСИ",
+	"name": "подготовка НСИ",
+	"fullName": "feature/модуль2/iternal/000_подготовканси.feature_подготовка нси",
+	"testCaseId": "6a994cb16e53c35e8df5441383a23dbc",
+	"start": 1712221119838,
+	"stop": 1712221122462,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "passed",
+	"stage": "finished",
+	"steps": [
+		{
+			"name": "И загрузка справочника ВидыЦен",
+			"start": 1712221121627,
+			"stop": 1712221122247,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я проверяю или создаю для справочника \"ВидыЦен\" объекты:",
+					"start": 1712221121627,
+					"stop": 1712221122247,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "ВидыЦен"
+						}
+					],
+					"attachments": [
+						{
+							"name": "table",
+							"source": "568b9f02-7955-4f60-88ed-034a55b69db6-attachment.csv",
+							"type": "text/csv"
+						}
+					],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "И загрузка справочника Регионы",
+			"start": 1712221122251,
+			"stop": 1712221122273,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я проверяю или создаю для справочника \"Регионы\" объекты:",
+					"start": 1712221122251,
+					"stop": 1712221122273,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "Регионы"
+						}
+					],
+					"attachments": [
+						{
+							"name": "table",
+							"source": "9c93a7fe-7294-4dc2-b2c2-c4662b97bd8a-attachment.csv",
+							"type": "text/csv"
+						}
+					],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "И загрузка справочника Контрагенты",
+			"start": 1712221122276,
+			"stop": 1712221122316,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я проверяю или создаю для справочника \"Контрагенты\" объекты:",
+					"start": 1712221122276,
+					"stop": 1712221122316,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "Контрагенты"
+						}
+					],
+					"attachments": [
+						{
+							"name": "table",
+							"source": "dabf0900-b9ee-48a8-a43e-eae3d93748be-attachment.csv",
+							"type": "text/csv"
+						}
+					],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "И загрузка справочника Организации",
+			"start": 1712221122320,
+			"stop": 1712221122339,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я проверяю или создаю для справочника \"ВидыЦен\" объекты:",
+					"start": 1712221122320,
+					"stop": 1712221122339,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "ВидыЦен"
+						}
+					],
+					"attachments": [
+						{
+							"name": "table",
+							"source": "d413fd02-7d18-4e35-b642-c2c46cdc018c-attachment.csv",
+							"type": "text/csv"
+						}
+					],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "И загрузка справочника Пользователи",
+			"start": 1712221122343,
+			"stop": 1712221122363,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я проверяю или создаю для справочника \"Пользователи\" объекты:",
+					"start": 1712221122343,
+					"stop": 1712221122363,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "Пользователи"
+						}
+					],
+					"attachments": [
+						{
+							"name": "table",
+							"source": "4dc972e5-4423-45d3-a375-347a2b00792d-attachment.csv",
+							"type": "text/csv"
+						}
+					],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "И загрузка справочника Склады",
+			"start": 1712221122366,
+			"stop": 1712221122383,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я проверяю или создаю для справочника \"Склады\" объекты:",
+					"start": 1712221122366,
+					"stop": 1712221122383,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "Склады"
+						}
+					],
+					"attachments": [
+						{
+							"name": "table",
+							"source": "00d0ee57-ee06-401a-83cb-bdb9f9cf414c-attachment.csv",
+							"type": "text/csv"
+						}
+					],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "И загрузка справочника ХранимыеФайлы",
+			"start": 1712221122386,
+			"stop": 1712221122408,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я проверяю или создаю для справочника \"ХранимыеФайлы\" объекты:",
+					"start": 1712221122386,
+					"stop": 1712221122408,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "ХранимыеФайлы"
+						}
+					],
+					"attachments": [
+						{
+							"name": "table",
+							"source": "2824516c-dee5-4a07-b834-0bb9342164e9-attachment.csv",
+							"type": "text/csv"
+						}
+					],
+					"steps": []
+				}
+			]
+		},
+		{
+			"name": "И загрузка справочника Товары",
+			"start": 1712221122412,
+			"stop": 1712221122460,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": [
+				{
+					"name": "И я проверяю или создаю для справочника \"Товары\" объекты:",
+					"start": 1712221122412,
+					"stop": 1712221122460,
+					"status": "passed",
+					"stage": "finished",
+					"statusDetails": {
+						"known": false,
+						"muted": false,
+						"flaky": false
+					},
+					"parameters": [
+						{
+							"name": "Парам1",
+							"value": "Товары"
+						}
+					],
+					"attachments": [
+						{
+							"name": "table",
+							"source": "a333efa3-6863-4dc0-ad06-71645908414d-attachment.csv",
+							"type": "text/csv"
+						}
+					],
+					"steps": []
+				}
+			]
+		}
+	],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "подготовка НСИ"
+		},
+		{
+			"name": "feature",
+			"value": "подготовка НСИ"
+		},
+		{
+			"name": "epic",
+			"value": "Модуль2"
+		},
+		{
+			"name": "suite",
+			"value": "подготовка НСИ"
+		},
+		{
+			"name": "tag",
+			"value": "tree"
+		},
+		{
+			"name": "package",
+			"value": "iternal"
+		},
+		{
+			"name": "host",
+			"value": "DESKTOP-HIA2BDO"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}
